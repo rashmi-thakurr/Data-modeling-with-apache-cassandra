@@ -10,10 +10,10 @@ A startup called sparkify wants to analyze the data they have been collecting on
 - ETL pipeline that transfers data from a set of CSV files within a directory to create a streamline CSV file model.
 - Insert data into apache cassandra tables.
 
-  ## Datasets
-  - One dataset : event_data
-  - Directpry of csv files partitioned by date
-  - Example : event_data/2018-11-08-events.csv
+## Datasets
+- One dataset : event_data
+- Directpry of csv files partitioned by date
+- Example : event_data/2018-11-08-events.csv
 
   Below is an example of what an original single event data file, 2018-11-08-events.csv, looks like.
   
